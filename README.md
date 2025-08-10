@@ -42,3 +42,4 @@ This project is a **Real-time fraud detection system** that processes transactio
 
 <img width="641" height="326" alt="project_arch drawio" src="https://github.com/user-attachments/assets/cf39174d-f43b-4f4b-8864-b0f0269f8c3c" />
 
+<img width="641" height="326" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/1e5be118-bac3-4f44-aac1-6956e1b2d045" />
