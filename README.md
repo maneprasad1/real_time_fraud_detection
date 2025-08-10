@@ -49,6 +49,7 @@ This project is a **Real-time fraud detection system** that processes transactio
 
 ## Project Structure
 
+```plaintext
 real_time_fraud_detection/
 ├── code/                      
 │   ├── src/                  
@@ -64,3 +65,4 @@ real_time_fraud_detection/
 ├── screenshots/               
 ├── README.md                 
 └── requirements.txt         
+```
