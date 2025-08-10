@@ -42,6 +42,8 @@ This project is a **Real-time fraud detection system** that processes transactio
 
 <img width="827" height="465" alt="project_architecture drawio" src="https://github.com/user-attachments/assets/e9b862a8-1ef4-4ca3-b810-028bcb4f68cd" />
 
+--- 
+
 ## Real Time Alerts Example
 <img width="593" height="374" alt="image" src="https://github.com/user-attachments/assets/2f387223-1cf6-4f15-877d-32e7246f6b1b" />
 
@@ -66,3 +68,6 @@ real_time_fraud_detection/
 ├── README.md                 
 └── requirements.txt         
 ```
+Conclusion
+
+This project successfully demonstrates a real-time fraud detection pipeline leveraging AWS cloud services and distributed computing technologies. Transaction data is streamed via Apache Kafka, processed using PySpark on EC2 instances, and analyzed with a pre-trained fraud detection model stored in Amazon S3. Predictions are generated in near real time, and fraudulent activities trigger alerts through AWS SNS, ensuring timely notifications. The pipeline showcases scalability, low-latency processing, and the ability to handle high-throughput data streams (1,000+ records/sec), making it a robust and efficient framework for financial fraud detection in production environments.
