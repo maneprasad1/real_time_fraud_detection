@@ -42,3 +42,5 @@ This project is a **Real-time fraud detection system** that processes transactio
 
 <img width="827" height="465" alt="project_architecture drawio" src="https://github.com/user-attachments/assets/e9b862a8-1ef4-4ca3-b810-028bcb4f68cd" />
 
+## Real Time Alerts Example
+<img width="593" height="374" alt="image" src="https://github.com/user-attachments/assets/2f387223-1cf6-4f15-877d-32e7246f6b1b" />
