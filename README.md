@@ -1,5 +1,3 @@
-# Real_time_fraud_detection
-
 # Real-Time Fraud Detection Pipeline with AWS, Kafka, and PySpark  
 
 ## Overview  
