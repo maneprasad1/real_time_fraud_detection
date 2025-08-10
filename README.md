@@ -44,3 +44,23 @@ This project is a **Real-time fraud detection system** that processes transactio
 
 ## Real Time Alerts Example
 <img width="593" height="374" alt="image" src="https://github.com/user-attachments/assets/2f387223-1cf6-4f15-877d-32e7246f6b1b" />
+
+---
+
+## Project Structure
+
+real_time_fraud_detection/
+├── code/                      
+│   ├── src/                  
+│   │   ├── consumer_decision.py  
+│   │   └── producer.py           
+│   └── scripts/              
+│       ├── consumer_predict.sh    
+│       └── producer.sh            
+├── models/                    
+│   └── decision_tree.pkl          
+├── notebooks/                 
+│   └── decision_tree_training.ipynb  
+├── screenshots/               
+├── README.md                 
+└── requirements.txt         
